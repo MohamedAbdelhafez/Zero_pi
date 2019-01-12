@@ -1,0 +1,7 @@
+*.swp
+sbatch_file/*
+*.pyc
+.ipynb_checkpoints/
+*.so
+*.o
+custom_kernels/build/temp/*
